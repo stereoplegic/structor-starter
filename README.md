@@ -1,2 +1,1 @@
-# structor-starter
-Structor React App Starter
+### Structor React App Starter
