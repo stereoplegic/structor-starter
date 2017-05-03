@@ -155,6 +155,7 @@
     "redux": "^3.6.0",
     "redux-saga": "^0.12.0",
     "reselect": "2.5.4",
+    "prop-types": "15.5.8",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
